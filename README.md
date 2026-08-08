@@ -36,6 +36,4 @@ The Excel workbook contains the original sales data, analysis, pivot tables, cha
 ## 💡 Key Learning
 
 This project demonstrates practical skills in data cleaning, Excel formulas, pivot-table analysis, data visualization, and dashboard creation.
-## 📊 Dashboard Preview
-
-![Sales Dashboard](./sales-dashboard.png)
+![Sales Dashboard](./Sales-Dashboard.png)
